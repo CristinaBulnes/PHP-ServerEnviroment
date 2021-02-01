@@ -14,7 +14,10 @@ _At this project, we are going to make an analysis about the local PHP server va
     </ul>
   <li>Practical exercise</li>
     <ul>
-      <li><a href="### Analysis of the local PHP server variable $_SERVER">server_variables.php</a></li>
+      <li><a href="### Analysis of the local PHP server variable $_SERVER">index.php</a></li>
+      <li><a href="### Analysis of the local PHP server variable $_SERVER">panel.php</a></li>
+      <li><a href="### Analysis of the local PHP server variable $_SERVER">validate.php</a></li>
+      <li><a href="### Analysis of the local PHP server variable $_SERVER">close_session.php</a></li>
     </ul>
 </ol>
 
